@@ -1,0 +1,20 @@
+2026-02-12 11:55:26,646 - INFO - Processing file: begin_inventory.csv
+2026-02-12 11:55:26,646 - INFO - Starting ingestion for begin_inventory
+2026-02-12 11:55:27,849 - INFO - Successfully ingested table: begin_inventory
+2026-02-12 11:55:27,850 - INFO - Processing file: end_inventory.csv
+2026-02-12 11:55:27,850 - INFO - Starting ingestion for end_inventory
+2026-02-12 11:55:29,083 - INFO - Successfully ingested table: end_inventory
+2026-02-12 11:55:29,083 - INFO - Processing file: purchases.csv
+2026-02-12 11:55:29,083 - INFO - Starting ingestion for purchases
+2026-02-12 11:55:51,602 - INFO - Successfully ingested table: purchases
+2026-02-12 11:55:51,603 - INFO - Processing file: purchase_prices.csv
+2026-02-12 11:55:51,603 - INFO - Starting ingestion for purchase_prices
+2026-02-12 11:55:51,677 - INFO - Successfully ingested table: purchase_prices
+2026-02-12 11:55:51,678 - INFO - Processing file: sales.csv
+2026-02-12 11:55:51,678 - INFO - Starting ingestion for sales
+2026-02-12 11:57:39,857 - INFO - Successfully ingested table: sales
+2026-02-12 11:57:39,858 - INFO - Processing file: vendor_invoice.csv
+2026-02-12 11:57:39,858 - INFO - Starting ingestion for vendor_invoice
+2026-02-12 11:57:39,922 - INFO - Successfully ingested table: vendor_invoice
+2026-02-12 11:57:39,922 - INFO - -------------- Ingestion Complete --------------
+2026-02-12 11:57:39,922 - INFO - Total time taken: 2.22 minutes
